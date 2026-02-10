@@ -1,4 +1,4 @@
-# book-recommendation-system
+# Steam games recommender
 Project designed to study how to create recommendation systems.
 
 This repository currently contains a **Steam games recommender** built on the `steam-200k` dataset (implicit feedback).
